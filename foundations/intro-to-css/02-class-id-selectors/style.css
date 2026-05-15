@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.number {
+  background-color: pink;
+}
+
+#number-2 {
+  color: blue;
+  font-size: 50px;
+}
+
+.clstwo {
+    font-size: 20px;
+    font-size: 30px;
+}
+
+#number-4 {
+    background-color: green;
+    font-weight: bold;
+    font-size:25px;
+}
